@@ -1,0 +1,14 @@
+Pharmacy Management System 
+
+Version 1.0 
+Specification : 
+User Authentication – Secure login for admin and pharmacist.
+Medicine Management – Add, update, delete, and search medicines.
+Inventory Management – Track medicine stock and availability.
+Supplier Management – Store and manage supplier information.
+Customer Management – Maintain customer/patient details.
+Prescription Management – Record and manage prescriptions.
+Billing System – Generate bills and invoices automatically.
+Expiry Management – Track expired and near-expiry medicines.
+Sales Management – Maintain daily and monthly sales records.
+Report Generation – Generate sales, stock, purchase, and expiry reports.
