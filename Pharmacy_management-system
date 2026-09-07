@@ -12,6 +12,7 @@ Billing System – Generate bills and invoices automatically.
 Expiry Management – Track expired and near-expiry medicines.
 Sales Management – Maintain daily and monthly sales records.
 Report Generation – Generate sales, stock, purchase, and expiry reports.
-x-x-x
 Low Stock Notification – Alert the pharmacist when medicine quantity falls below the minimum level.
 Payment Management – Record cash, card, UPI, and other payment methods.
+
+Medicine Category Management – Organize medicines by categories such as tablets, syrups, injections, etc.
